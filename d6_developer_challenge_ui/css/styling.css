@@ -1,0 +1,285 @@
+body {		
+    font-family: Verdana;
+}
+
+div.invoice {
+border:1px solid #ccc;
+padding:10px;
+width:570pt;
+}
+
+.save_invoice_wrapper {
+    width:587pt;
+}
+
+.save_invoice {
+    border:1px solid #ccc;
+    padding: 10px;
+    margin-top:4px
+    
+}
+
+.add_item_wrapper {
+    margin-top:8px
+}
+
+.save_calculate {
+    border:1px solid #ccc;
+    padding: 4px;
+    
+}
+
+div.company-address {
+    border:1px solid #ccc;
+    float:left;
+    width:200pt;
+}
+
+div.invoice-details {
+    border:1px solid #ccc;
+    float:right;
+    width:200pt;
+}
+
+div.customer-address {
+    border:1px solid #ccc;
+    float:right;
+    margin-bottom:50px;
+    margin-top:100px;
+    width:200pt;
+}
+
+div.clear-fix {
+    clear:both;
+    float:none;
+}
+
+.float-left {
+    float: left
+}
+
+.float-right {
+    float: right
+}
+
+table {
+    width:100%;
+}
+
+th {
+    text-align: left;
+}
+
+.text-left {
+    text-align:left;
+}
+
+.text-center {
+    text-align:center;
+}
+
+.text-right {
+    text-align:right;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-end {
+    justify-content: flex-end;
+}
+
+.uppercase {
+    text-transform: uppercase
+}
+
+.border-1 {
+    border-width: 1px;
+}
+
+.border-solid {
+    border-style: solid;
+}
+
+.border-blue-500 {
+    border-color: rgb(59 130 246);
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.padding-2 {
+    padding: 2px
+}
+
+.padding-r-2 {
+    padding-right: 2px
+}
+
+.padding-l-2 {
+    padding-left: 2px
+}
+
+.padding-r-4 {
+    padding-right: 4px
+}
+
+.padding-l-4 {
+    padding-left: 4px
+}
+
+.padding-l-10 {
+    padding-left: 10px
+}
+
+.ml-4 {
+    margin-left: 4px
+}
+
+
+.mb-10 {
+    margin-bottom: 10px
+}
+
+.w-100 {
+    width: 100px
+}
+
+.w-full {
+    width: 100%
+}
+
+.w-60 {
+    width: 60%
+}
+
+.w-40 {
+    width: 40%
+}
+
+.w-50 {
+    width: 50%
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.inline {
+    display: inline;
+}
+
+.content-between {
+    align-content: space-between;
+}
+
+.content-start {
+    align-content: flex-start;
+}
+
+.content-end {
+    align-content: flex-end;
+}
+
+.content-center {
+    align-content: center;
+}
+
+.text-dark-blue {
+    color: #365C91
+}
+
+.text-light-blue {
+    color: #7A8DC8
+}
+
+.text-black {
+    color: #000000
+}
+
+.text-white {
+    color: #FFFFFF
+}
+
+.bg-dark-blue {
+    background-color: #3B4E87
+}
+
+.bg-light-blue {
+    background-color: #D2D9EC
+}
+
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.my-auto {
+    margin-top: auto;
+    margin-bottom: auto;
+}	
+
+.mt-4 {
+    margin-top: 4px
+}
+
+.mt-10 {
+    margin-top: 10px
+}
+
+.select.form-control {
+    -moz-appearance:none;
+    -webkit-appearance: none;
+    appearance:none;
+    background-image: url('https://maxcdn.icons8.com/Share/icon/Arrows//expand_arrow1600.png');
+    background-repeat: no-repeat;
+    background-size:15px;
+    background-position: right center;
+ }
+
+.hidden {
+    display: none;
+}
+
+.comments_text{
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.cursor-disabled {
+    cursor: not-allowed;
+}
